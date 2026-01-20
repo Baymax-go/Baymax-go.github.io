@@ -42,17 +42,6 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 </div>
 </div>
 
-<!-- Lipsnet policy -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Robust Locomotion Policy with Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293/)
-
-**Yang Zhang**, Buqing Nie, and Yue Gao.  [Paper](https://ieeexplore.ieee.org/document/10767293/)
-- induce adaptive Lipschitz constraint for quadruped locomotion tasks
-- action smooth, lower energy cost, robust to obs. noise and disturbances.
-</div>
-</div>
 
 <!-- FocusNav -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/focusnav.png' alt="sym" width="100%"></div></div>
@@ -61,8 +50,22 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 [FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2507.08303)
 
 **Yang Zhang**, Jianming Ma, Liyun Yan, Zhanxiang Cao, and Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
-- induce adaptive Lipschitz constraint for quadruped locomotion tasks
-- action smooth, lower energy cost, robust to obs. noise and disturbances.
+- Propose spatial selective attention navigation framework.
+- Design waypoint-guided and stability-aware modules.
+- Improve humanoid robot navigation robustness.
+</div>
+</div>
+
+
+<!-- Lipsnet policy -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Locomotion Policy with Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293/)
+
+**Yang Zhang**, Buqing Nie, and Yue Gao.  [Paper](https://ieeexplore.ieee.org/document/10767293/)
+- Induce adaptive Lipschitz constraint for quadruped locomotion tasks.
+- Action smooth, lower energy cost, robust to obs. noise and disturbances.
 </div>
 </div>
 
@@ -75,8 +78,8 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 Buqing Nie, **Yang Zhang**, Rongjun Jin, Zhanxiang Cao, Huangxuan Lin, Xiaokang Yang, Yue Gao. [Paper](https://arxiv.org/abs/2508.01247)
 - DRL-based humanoid robot policy with strict symmetry equivariance.
-- simple to implement without additional hyper-parameters.
-- higher tracking accuracy with coordinated motions
+- Simple to implement without additional hyper-parameters.
+- Higher tracking accuracy with coordinated motions.
 </div>
 </div>
 
@@ -89,9 +92,9 @@ Buqing Nie, **Yang Zhang**, Rongjun Jin, Zhanxiang Cao, Huangxuan Lin, Xiaokang 
 [Contrastive Forward Prediction Reinforcement Learning for Adaptive Fault-Tolerant Legged Robots](https://proceedings.mlr.press/v305/fu25b.html)
 
 Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Paper](https://proceedings.mlr.press/v305/fu25b.html)
-- DRL-based humanoid robot policy with strict symmetry equivariance.
-- simple to implement without additional hyper-parameters.
-- higher tracking accuracy with coordinated motions
+- Propose contrastive forward prediction RL framework.
+- Enhance legged robot fault tolerance via error feedback.
+- Achieve zero-shot adaptation to unseen joint damages.
 </div>
 </div>
 
