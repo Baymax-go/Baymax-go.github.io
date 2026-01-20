@@ -58,7 +58,7 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 
 <!-- Lipsnet policy -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Locomotion Policy with Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293/)
