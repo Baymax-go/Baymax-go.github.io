@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Homepage of Yang Zhang"
 description              : "Robotics & RL. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Baymax-go/Baymax-go.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yang Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "PhD candidate@SJTU"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=mCK68E8AAAAJ&hl=zh-CN"
+  email            : "zhangyang-sjtu-2022@sjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yang-Zhang-604" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
