@@ -108,7 +108,7 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 # 📖 Educations
 - *2022.09 - 2027.06*, PhD Candidate (direct-entry PhD program), Control Science and Engineering, School of Automation and Perception, Shanghai Jiao Tong University.
 - *2018.09 - 2022.06*, Bachelor, Measurement and Control Technology (Honor class), School of Instrument Science and Electrical Engineering, Jilin University.
-- 
+
 # 💻 Academic Services
 <span class='anchor' id='academic-services'></span>
 I serve as a reviewer for AI/robotics conferences/journals, including AAAI 2026, ICRA 2026, IROS 2025, RA-L, etc.
