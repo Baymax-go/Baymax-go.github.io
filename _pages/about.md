@@ -23,7 +23,7 @@ Previously, I received my bachelor's degree in Measurement and Control Technolog
 
 My research interest includes: Vision-Language-Action (VLA), World Model, RL Post-training, Robust Whole-body control for humanoid robots; 
 
-I am a final-year PhD candidate at SJTU, expected to graduate in June 2027. Currently, I am actively seeking research internships or jobs about Embodied AI.
+I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027**. Currently, I am actively **seeking research internships or jobs about Embodied AI.**
 
 
 
