@@ -29,19 +29,40 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- Keep on Going SA2RT -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+- Selective adversarial attack for the humanoid robot.
+- Identify vulnerability and improve robustness.
+- Improve long horizon mobility and tracking performance on real robot.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<!-- SE-Policy -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SE-Policy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy](https://arxiv.org/abs/2508.01247)
+
+Buqing Nie, **Yang Zhang**, Rongjun Jin, Zhanxiang Cao, Huangxuan Lin, Xiaokang Yang, Yue Gao. [Paper](https://arxiv.org/abs/2508.01247)
+- DRL-based humanoid robot policy with strict symmetry equivariance.
+- simple to implement without additional hyper-parameters.
+- higher tracking accuracy with coordinated motions
+</div>
+</div>
+
+
+
+- ``ROBIO 2022`` [Parameters identification of whole body dynamics for hexapod robot](https://ieeexplore.ieee.org/document/10011865), **Yang Zhang**, Yue Gao, Ming Sun.
+- ``Under Review`` [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/abs/2506.00472), **Yang Zhang**, Buqing Nie, Zhanxiang Cao, Yangqing Fu, Yue Gao.
+- ``Under Review`` [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125). Zhanxiang Cao, **Yang Zhang**, Buqing Nie, Huangxuan Lin, Haoyang Li, Yue Gao.
+- ``IROS 2025`` [Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications](https://arxiv.org/abs/2506.23114), Zhanxiang Cao, Buqing Nie, **Yang Zhang**, Yue Gao.
+- ``RCAR 2024`` [Learning Capability to Enhance Locomotion Control and Planning for Legged Robots](https://ieeexplore.ieee.org/abstract/document/10671189), Yue Gao, Changda Tian, **Yang Zhang**.
 
 # 📖 Educations
 - *2022.09 - 2027.06*, PhD Candidate (direct-entry PhD program), Control Science and Engineering, School of Automation and Perception, Shanghai Jiao Tong University.
