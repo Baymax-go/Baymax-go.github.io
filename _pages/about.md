@@ -30,7 +30,7 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 # 📝 Publications 
 
 <!-- Keep on Going SA2RT -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
