@@ -82,8 +82,8 @@ Buqing Nie, **Yang Zhang**, Rongjun Jin, Zhanxiang Cao, Huangxuan Lin, Xiaokang 
 
 
 
-<!-- SE-Policy -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SE-Policy.png' alt="sym" width="100%"></div></div>
+<!-- Fault-Tolerant -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2025</div><img src='images/fault_tolerant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contrastive Forward Prediction Reinforcement Learning for Adaptive Fault-Tolerant Legged Robots](https://proceedings.mlr.press/v305/fu25b.html)
