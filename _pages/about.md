@@ -43,17 +43,13 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2027.06*, PhD Candidate (direct-entry PhD program), Control Science and Engineering, School of Automation and Perception, Shanghai Jiao Tong University.
+- *2018.09 - 2022.06*, Bachelor, Measurement and Control Technology (Honor class), School of Instrument Science and Electrical Engineering, Jilin University.
+- 
+# 💻 Academic Services
+<span class='anchor' id='academic-services'></span>
+I serve as a reviewer for AI/robotics conferences/journals, including AAAI 2026, ICRA 2026, IROS 2025, RA-L, etc.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- *2019-2021* Awarded the National Scholarship
