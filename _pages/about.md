@@ -111,7 +111,7 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 
 # 💻 Academic Services
 <span class='anchor' id='academic-services'></span>
-I serve as a reviewer for AI/robotics conferences/journals, including AAAI 2026, ICRA 2026, IROS 2025, RA-L, etc.
+- I serve as a reviewer for AI/robotics conferences/journals, including AAAI 2026, ICRA 2026, IROS 2025, RA-L, etc.
 
 # 🎖 Honors and Awards
 - *2019-2021* Awarded the National Scholarship
