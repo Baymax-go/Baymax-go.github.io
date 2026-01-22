@@ -47,9 +47,9 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/focusnav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2507.08303)
+[FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2601.12790)
 
-**Yang Zhang**, Jianming Ma, Liyun Yan, Zhanxiang Cao, and Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+**Yang Zhang**, Jianming Ma, Liyun Yan, Zhanxiang Cao, and Yue Gao.  [Paper](https://arxiv.org/abs/2601.12790)
 - Propose spatial selective attention navigation framework.
 - Design waypoint-guided and stability-aware modules.
 - Improve humanoid robot navigation robustness.
