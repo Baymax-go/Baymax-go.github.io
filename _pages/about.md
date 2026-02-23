@@ -98,10 +98,9 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 </div>
 </div>
 
-
+- ``ICRA 2026`` [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/abs/2506.00472), **Yang Zhang**, Buqing Nie, Zhanxiang Cao, Yangqing Fu, Yue Gao.
 - ``ROBIO 2022`` [Parameters identification of whole body dynamics for hexapod robot](https://ieeexplore.ieee.org/document/10011865), **Yang Zhang**, Yue Gao, Ming Sun.
-- ``Under Review`` [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/abs/2506.00472), **Yang Zhang**, Buqing Nie, Zhanxiang Cao, Yangqing Fu, Yue Gao.
-- ``Under Review`` [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125). Zhanxiang Cao, **Yang Zhang**, Buqing Nie, Huangxuan Lin, Haoyang Li, Yue Gao.
+- ``ICRA 2026`` [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125). Zhanxiang Cao, **Yang Zhang**, Buqing Nie, Huangxuan Lin, Haoyang Li, Yue Gao.
 - ``IROS 2025`` [Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications](https://arxiv.org/abs/2506.23114), Zhanxiang Cao, Buqing Nie, **Yang Zhang**, Yue Gao.
 - ``RCAR 2024`` [Learning Capability to Enhance Locomotion Control and Planning for Legged Robots](https://ieeexplore.ieee.org/abstract/document/10671189), Yue Gao, Changda Tian, **Yang Zhang**.
 
