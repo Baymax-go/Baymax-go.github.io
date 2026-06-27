@@ -50,8 +50,8 @@ Jianming Ma, Qiyue Yang, **Yang Zhang**, Liyun Yan, Zhanxiang Cao, Yazhou Zhang,
 [HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation](https://arxiv.org/abs/2602.06341)
 
 Zhanxiang Cao, Liyun Yan, **Yang Zhang**, Sirui Chen, Jianming Ma, Tianyue Zhan, Shengcheng Fu, Yufei Jia, Cewu Lu, Yue Gao.  [Paper](https://arxiv.org/abs/2602.06341)
-- HiWET enhances global end-effector tracking in humanoid robots.
-- KMP improves manipulation manifold consistency and end-effector tracking accuracy.
+- HiWET enhances global end-effector tracking accuracy.
+- KMP improves manipulation manifold consistency.
 - Enhancing loco-manipulation performance in real humanoid robots.
 </div>
 </div>
