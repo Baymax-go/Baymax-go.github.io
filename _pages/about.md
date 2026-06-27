@@ -85,18 +85,6 @@ Zhanxiang Cao, Liyun Yan, **Yang Zhang**, Sirui Chen, Jianming Ma, Tianyue Zhan,
 </div>
 
 
-<!-- Lipsnet policy -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Robust Locomotion Policy with Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293/)
-
-**Yang Zhang**, Buqing Nie, and Yue Gao.  [Paper](https://ieeexplore.ieee.org/document/10767293/)
-- Induce adaptive Lipschitz constraint for quadruped locomotion tasks.
-- Action smooth, lower energy cost, robust to obs. noise and disturbances.
-</div>
-</div>
-
 
 <!-- SE-Policy -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SE-Policy.png' alt="sym" width="100%"></div></div>
@@ -125,6 +113,21 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 - Achieve zero-shot adaptation to unseen joint damages.
 </div>
 </div>
+
+
+<!-- Lipsnet policy -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Locomotion Policy with Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293/)
+
+**Yang Zhang**, Buqing Nie, and Yue Gao.  [Paper](https://ieeexplore.ieee.org/document/10767293/)
+- Induce adaptive Lipschitz constraint for quadruped locomotion tasks.
+- Action smooth, lower energy cost, robust to obs. noise and disturbances.
+</div>
+</div>
+
+
 
 - ``ICRA 2026`` [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/abs/2506.00472), **Yang Zhang**, Buqing Nie, Zhanxiang Cao, Yangqing Fu, Yue Gao.
 - ``ICRA 2026`` [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125). Zhanxiang Cao, **Yang Zhang**, Buqing Nie, Huangxuan Lin, Haoyang Li, Yue Gao.
