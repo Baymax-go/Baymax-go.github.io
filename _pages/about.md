@@ -30,12 +30,12 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 # 📝 Publications 
 
 <!-- PolyFlow -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/PolyFlow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
+[PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update](https://arxiv.org/abs/2606.13400)
 
-**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+Jianming Ma, Qiyue Yang, **Yang Zhang**, Liyun Yan, Zhanxiang Cao, Yazhou Zhang, Yue Gao.  [Paper](https://arxiv.org/abs/2606.13400)
 - Selective adversarial attack for the humanoid robot.
 - Identify vulnerability and improve robustness.
 - Improve long horizon mobility and tracking performance on real robot.
@@ -47,9 +47,9 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/HiWET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
+[HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation](https://arxiv.org/abs/2602.06341)
 
-**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+Zhanxiang Cao, Liyun Yan, **Yang Zhang**, Sirui Chen, Jianming Ma, Tianyue Zhan, Shengcheng Fu, Yufei Jia, Cewu Lu, Yue Gao.  [Paper](https://arxiv.org/abs/2602.06341)
 - Selective adversarial attack for the humanoid robot.
 - Identify vulnerability and improve robustness.
 - Improve long horizon mobility and tracking performance on real robot.
