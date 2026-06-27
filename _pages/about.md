@@ -29,6 +29,34 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 # 📝 Publications 
 
+<!-- PolyFlow -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
+
+**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+- Selective adversarial attack for the humanoid robot.
+- Identify vulnerability and improve robustness.
+- Improve long horizon mobility and tracking performance on real robot.
+</div>
+</div>
+
+
+<!-- HiWET -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
+
+**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+- Selective adversarial attack for the humanoid robot.
+- Identify vulnerability and improve robustness.
+- Improve long horizon mobility and tracking performance on real robot.
+</div>
+</div>
+
+
 <!-- Keep on Going SA2RT -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,7 +133,7 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 - ``RCAR 2024`` [Learning Capability to Enhance Locomotion Control and Planning for Legged Robots](https://ieeexplore.ieee.org/abstract/document/10671189), Yue Gao, Changda Tian, **Yang Zhang**.
 
 # 📖 Educations
-- *2022.09 - 2027.06*, PhD Candidate (direct-entry PhD program), Control Science and Engineering, School of Automation and Perception, Shanghai Jiao Tong University.
+- *2022.09 - 2027.06*, PhD Candidate, Control Science and Engineering, School of Automation and Perception, Shanghai Jiao Tong University.
 - *2018.09 - 2022.06*, Bachelor, Measurement and Control Technology (Honor class), School of Instrument Science and Electrical Engineering, Jilin University.
 
 # 💻 Academic Services
