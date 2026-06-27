@@ -36,9 +36,9 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 [PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update](https://arxiv.org/abs/2606.13400)
 
 Jianming Ma, Qiyue Yang, **Yang Zhang**, Liyun Yan, Zhanxiang Cao, Yazhou Zhang, Yue Gao.  [Paper](https://arxiv.org/abs/2606.13400)
-- Selective adversarial attack for the humanoid robot.
-- Identify vulnerability and improve robustness.
-- Improve long horizon mobility and tracking performance on real robot.
+- Discrete-time flow matching with guaranteed zero constraint violation.
+- Projection-free update via differentiable ray shooting boosts efficiency.
+- Favorable trade-off across safety, fidelity and inference speed.
 </div>
 </div>
 
