@@ -29,6 +29,62 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 # 📝 Publications 
 
+<!-- Rollback -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Rollback.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rollback: Experience Backtracking in World Models for Policy improvement](https://anonymous.4open.science/w/Rollback/)
+
+Jiayi Luo, **Yang Zhang**.  [Paper](https://anonymous.4open.science/w/Rollback/)
+- Revisit critical decisions through experience-backtracking tree search in world models.
+- Derive action-level supervision from counterfactual outcomes without a learned value model.
+- Achieve higher real-robot success rates and more stable policy improvement.
+</div>
+</div>
+
+
+<!-- ActSafeGuard -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ActSafeGuard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies](https://arxiv.org/pdf/2609.11697)
+
+Jianming Ma, Rongjun Jin, Xiaxi Si, **Yang Zhang**, Yue Gao.  [Paper](https://arxiv.org/pdf/2609.11697)
+- Enforce hard action constraints during policy training and inference.
+- Enable boundary-aware learning through differentiable ray scaling.
+- Achieve 100% step safety with competitive task success.
+</div>
+</div>
+
+
+<!-- P3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/P3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning](https://arxiv.org/pdf/2607.25541)
+
+Liyun Yan, Jianming Ma, **Yang Zhang**, Shengcheng Fu, Yue Gao.  [Paper](https://arxiv.org/pdf/2607.25541)
+- Propose distribution-aware PPO for stable VAE-based robot learning.
+- Combine moment matching with sampling-based calibration under latent uncertainty.
+- Improve data efficiency and accelerate convergence in humanoid parkour.
+</div>
+</div>
+
+
+<!-- Global-Local -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/global-local.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Global-Local Attention Decomposition for Terrain Encoding in Humanoid Perceptive Locomotion](https://arxiv.org/pdf/2606.00637)
+
+Shengcheng Fu, **Yang Zhang**, Zhanxiang Cao, Liyun Yan, Yue Gao.  [Paper](https://arxiv.org/pdf/2606.00637)
+- Decompose terrain attention into global context and local foothold geometry.
+- Enable precise foothold selection and emergent terrain-aware navigation.
+- Achieve zero-shot sim-to-real transfer using onboard LiDAR.
+</div>
+</div>
+
+
 <!-- PolyFlow -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/PolyFlow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
