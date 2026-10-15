@@ -29,6 +29,21 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 
 # 📝 Publications 
 
+
+<!-- WorldOracle -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WorldOracle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions](https://worldoracle-benchmark.github.io/)
+
+Haoyi Duan, Liliang Chen, Nan Wang, **Yang Zhang**.  [Paper](https://arxiv.org/pdf/2610.18826v1)
+- Benchmark action-conditioned world models against real-world executions under identical initial observations and action sequences.
+- Curate long-horizon trajectories across three embodiments, including successful and failed interactions.
+- Evaluate physical correctness, spatial alignment, interaction-region fidelity, and multi-view action coherence.
+</div>
+</div>
+
+
 <!-- Rollback -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Rollback.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
