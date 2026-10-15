@@ -128,19 +128,6 @@ Zhanxiang Cao, Liyun Yan, **Yang Zhang**, Sirui Chen, Jianming Ma, Tianyue Zhan,
 </div>
 
 
-<!-- Keep on Going SA2RT -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
-
-**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
-- Selective adversarial attack for the humanoid robot.
-- Identify vulnerability and improve robustness.
-- Improve long horizon mobility and tracking performance on real robot.
-</div>
-</div>
-
 
 <!-- FocusNav -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/focusnav.png' alt="sym" width="100%"></div></div>
@@ -156,6 +143,19 @@ Zhanxiang Cao, Liyun Yan, **Yang Zhang**, Sirui Chen, Jianming Ma, Tianyue Zhan,
 </div>
 
 
+<!-- Keep on Going SA2RT -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/keep_on_going.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training](https://arxiv.org/abs/2507.08303)
+
+**Yang Zhang**, Zhanxiang Cao, Buqing Nie, Haoyang Li, Zhong Jiangwei, Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao.  [Paper](https://arxiv.org/abs/2507.08303)
+- Selective adversarial attack for the humanoid robot.
+- Identify vulnerability and improve robustness.
+- Improve long horizon mobility and tracking performance on real robot.
+</div>
+</div>
+
 
 <!-- SE-Policy -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SE-Policy.png' alt="sym" width="100%"></div></div>
@@ -167,6 +167,35 @@ Buqing Nie, **Yang Zhang**, Rongjun Jin, Zhanxiang Cao, Huangxuan Lin, Xiaokang 
 - DRL-based humanoid robot policy with strict symmetry equivariance.
 - Simple to implement without additional hyper-parameters.
 - Higher tracking accuracy with coordinated motions.
+</div>
+</div>
+
+
+
+<!-- HFPLP -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/HFPLP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/abs/2506.00472)
+
+**Yang Zhang**, Buqing Nie, Zhanxiang Cao, Yangqing Fu, Yue Gao.  [Paper](https://arxiv.org/abs/2506.00472)
+- Combine target joint positions and feedforward torques for robust legged locomotion.
+- Estimate external disturbances and generate adaptive compensation torques.
+- Enable a real quadruped to carry 20 kg payloads and recover more effectively from external impacts.
+</div>
+</div>
+
+
+<!-- A2CF -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/A2CF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125)
+
+Zhanxiang Cao, **Yang Zhang**, Buqing Nie, Huangxuan Lin, Haoyang Li, Yue Gao. [Paper](https://arxiv.org/abs/2506.23125)
+- Jointly train motion and assistive-force agents to accelerate humanoid skill learning.
+- Gradually remove assistance through an adaptive force curriculum and random masking.
+- Enable faster learning and deploy walking and dancing policies on real humanoids without external support.
 </div>
 </div>
 
@@ -186,6 +215,7 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 </div>
 
 
+
 <!-- Lipsnet policy -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -200,9 +230,20 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 
 
 
-- ``ICRA 2026`` [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/abs/2506.00472), **Yang Zhang**, Buqing Nie, Zhanxiang Cao, Yangqing Fu, Yue Gao.
-- ``ICRA 2026`` [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125). Zhanxiang Cao, **Yang Zhang**, Buqing Nie, Huangxuan Lin, Haoyang Li, Yue Gao.
-- ``IROS 2025`` [Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications](https://arxiv.org/abs/2506.23114), Zhanxiang Cao, Buqing Nie, **Yang Zhang**, Yue Gao.
+<!-- MUTE -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/MUTE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications](https://arxiv.org/abs/2506.23114)
+
+Zhanxiang Cao, Buqing Nie, **Yang Zhang**, Yue Gao.  [Paper](https://arxiv.org/abs/2506.23114)
+- Reduce foot-ground impact noise through phase-aware gait optimization.
+- Introduce a tunable quiet factor to balance noise reduction and locomotion speed.
+- Achieve approximately 8 dBA noise reduction on a real quadruped across indoor surfaces.
+</div>
+</div>
+
+
 - ``RCAR 2024`` [Learning Capability to Enhance Locomotion Control and Planning for Legged Robots](https://ieeexplore.ieee.org/abstract/document/10671189), Yue Gao, Changda Tian, **Yang Zhang**.
 - ``ROBIO 2022`` [Parameters identification of whole body dynamics for hexapod robot](https://ieeexplore.ieee.org/document/10011865), **Yang Zhang**, Yue Gao, Ming Sun.
   
@@ -212,7 +253,7 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 
 # 💻 Academic Services
 <span class='anchor' id='academic-services'></span>
-- I serve as a reviewer for AI/robotics conferences/journals, including AAAI 2026, ICRA 2026, IROS 2025, RA-L, etc.
+- I serve as a reviewer for AI/robotics conferences/journals, including ICLR, AAAI, ICRA, IROS, RA-L, etc.
 
 # 🎖 Honors and Awards
 - *2019-2021* Awarded the National Scholarship
