@@ -30,6 +30,22 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 # 📝 Publications 
 
 
+<!-- PartiGen -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/PartiGen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation](https://arxiv.org/pdf/2610.13373)
+
+Huang Chuxuan, Zhanxiang Cao, Tianyue Zhan, Haoyang Li, **Yang Zhang**.  [Paper](https://arxiv.org/pdf/2610.13373)
+- Learn body-part-aware motion representations that combine local limb features with shared whole-body context.
+- Generate language-conditioned humanoid motions through autoregressive latent diffusion, with kinematic supervision and frame-level endpoint prediction.
+- Reduce segment-level FID by 16.8% over TextOp and demonstrate successful execution of 26/27 screened, manually selected motions on Unitree G1.
+</div>
+</div>
+
+
+
+
 <!-- WorldOracle -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WorldOracle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
