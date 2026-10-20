@@ -247,15 +247,16 @@ Yangqing Fu, **Yang Zhang**, Qiyue Yang, Liyun Yan, Zhanxiang Cao, Yue Gao. [Pap
 
 
 
-<!-- Lipsnet policy -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/lipsnet_policy.png' alt="sym" width="100%"></div></div>
+<!-- LipsNet-policy -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/LipsNet-Policy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Locomotion Policy with Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293/)
 
 **Yang Zhang**, Buqing Nie, and Yue Gao.  [Paper](https://ieeexplore.ieee.org/document/10767293/)
-- Induce adaptive Lipschitz constraint for quadruped locomotion tasks.
-- Action smooth, lower energy cost, robust to obs. noise and disturbances.
+- Constrain locomotion policy sensitivity through multi-dimensional gradient normalization to improve action smoothness and robustness to observation noise.
+- Adapt local Lipschitz constants with a learned network to balance motion smoothness and responsiveness to terrain changes and external disturbances.
+- Reduce joint power and improve velocity tracking, validated through zero-shot deployment on Unitree Go1 across challenging terrains.
 </div>
 </div>
 
