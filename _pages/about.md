@@ -30,6 +30,21 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 # 📝 Publications 
 
 
+<!-- Be-JEPA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Be-JEPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL](https://ylyem9x.github.io/BeJEPA-project/)
+
+Liyun Yan, Haoyang Li, **Yang Zhang**.  [Paper](https://arxiv.org/pdf/2610.23127)
+- Learn a goal-conditioned behavior world model via unsupervised RL to jointly control humanoid posture, world position, and heading.
+- Compose one-step dynamics with long-term successor prediction to guide policy improvement without long imagined rollouts.
+- Reduce AMASS global tracking error by 61.7% over world-input BFM-Zero with online refinement, and demonstrate goal reaching and recovery on Unitree G1.
+</div>
+</div>
+
+
+
 <!-- PartiGen -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/PartiGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
