@@ -79,9 +79,9 @@ Haoyi Duan, Liliang Chen, Nan Wang, **Yang Zhang**.  [Paper](https://arxiv.org/p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Rollback.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rollback: Experience Backtracking in World Models for Policy improvement](https://anonymous.4open.science/w/Rollback/)
+[Rollback: Experience Backtracking in World Models for Policy improvement](https://rollback-wm.github.io/)
 
-Jiayi Luo, **Yang Zhang**.  [Paper](https://anonymous.4open.science/w/Rollback/)
+Jiayi Luo, **Yang Zhang**.  [Paper](https://arxiv.org/pdf/2610.36068)
 - Revisit critical decisions through experience-backtracking tree search in world models.
 - Derive action-level supervision from counterfactual outcomes without a learned value model.
 - Achieve higher real-robot success rates and more stable policy improvement.
