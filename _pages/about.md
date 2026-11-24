@@ -30,6 +30,22 @@ I am a **final-year PhD candidate** at SJTU, expected to **graduate in June 2027
 # 📝 Publications 
 
 
+<!-- Zeta-Zero -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/zeta-zero.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ζ0: A Framework for World Action Models with Joint Scene and Body Foresight in Humanoid Control](https://chenyizhi123.github.io/zeta0-project/)
+
+Yizhi Chen, Zhanxiang Cao, ......, **Yang Zhang**.  [Paper](https://arxiv.org/pdf/2611.29277)
+- Learn a world action model that jointly forecasts scene features and joint trajectories in a shared latent space to guide humanoid control.
+- Train the predictor through dual-response transfer by aligning teacher and policy responses with a teacher reference conditioned on recorded futures.
+- Improve mean task success across two base policies by up to 18.8 percentage points in simulation and 16.7 points on a Unitree G1 humanoid.
+</div>
+</div>
+
+
+
+
 <!-- Be-JEPA -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Be-JEPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,7 +97,7 @@ Haoyi Duan, Liliang Chen, Nan Wang, **Yang Zhang**.  [Paper](https://arxiv.org/p
 
 [Rollback: Experience Backtracking in World Models for Policy improvement](https://rollback-wm.github.io/)
 
-Jiayi Luo, **Yang Zhang**.  [Paper](https://arxiv.org/pdf/2610.36068)
+Jiayi Luo, **Yang Zhang**, Liliang Chen, Nan Wang.  [Paper](https://arxiv.org/pdf/2610.36068)
 - Revisit critical decisions through experience-backtracking tree search in world models.
 - Derive action-level supervision from counterfactual outcomes without a learned value model.
 - Achieve higher real-robot success rates and more stable policy improvement.
